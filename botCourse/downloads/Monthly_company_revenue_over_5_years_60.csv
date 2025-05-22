@@ -1,0 +1,61 @@
+monthly_revenue,annual_revenue,profit_margin,expenses,taxes,net_profit,total_assets,total_liabilities,equity,shareholders_equity
+Euro,Dinar,0.15,Peso,Rupiah,Hryvnia,Ruble,Zloty,Euro,Ruble
+Rupiah,Krone,0.09,Euro,Lek,Yen,Yuan Renminbi,Dollar,Euro,Yuan Renminbi
+Tenge,Rupiah,0.18,Hryvnia,Ruble,Marka,Yuan Renminbi,Rupiah,Yuan Renminbi,Yuan Renminbi
+Sol,Hryvnia,0.08,Yen,Rupiah,Rupiah,Yuan Renminbi,Rupiah,Yuan Renminbi,Euro
+Real,Zloty,0.13,Ruble,Yuan Renminbi,Peso,Rupiah,Peso,Dong,Shilling
+Yuan Renminbi,Yuan Renminbi,0.17,Baht,Dollar,Dollar,Euro,Euro,Euro,Peso
+Zloty,Rupee,0.06,Yen,Lek,Lek,Rupiah,Real,Yuan Renminbi,Won
+Peso,Krona,0.16,Real,Real,Shilling,Sol,Rupiah,Dollar,Ruble
+Euro,Yuan Renminbi,0.13,Rand,Dinar,Dollar,Yuan Renminbi,Krona,Dollar,Rupiah
+Yuan Renminbi,Birr,0.17,Yuan Renminbi,Yuan Renminbi,Pound,Euro,Koruna,Rupiah,Peso
+Ruble,Yuan Renminbi,0.06,Euro,Koruna,Zloty,Peso,Franc,Real,Peso
+Cordoba,Cedi,0.16,Euro,Won,Hryvnia,Peso,Yuan Renminbi,Sol,Koruna
+Franc,Yuan Renminbi,0.07,Euro,Rupiah,Euro,Dollar,Rupiah,Rupiah,Yuan Renminbi
+Yuan Renminbi,Yuan Renminbi,0.06,Sol,Koruna,Zloty,Peso,Yuan Renminbi,Ruble,Marka
+Zloty,Sol,0.19,Franc,Euro,Yuan Renminbi,Euro,Ruble,Ruble,Krona
+Euro,Krona,0.18,Pula,Yen,Krone,Yuan Renminbi,Ruble,Dollar,Dollar
+Tala,Som,0.14,Dollar,Ruble,Zloty,Rupiah,Peso,Peso,Peso
+Yuan Renminbi,Dinar,0.1,Krona,Yuan Renminbi,Rupiah,Yuan Renminbi,Yuan Renminbi,Rupiah,Peso
+Ruble,Ruble,0.17,Euro,Euro,Bolivar,Real,Rand,Rupiah,Peso
+Zloty,Real,0.16,Rupiah,Yuan Renminbi,Real,Peso,Yuan Renminbi,Yuan Renminbi,Som
+Euro,Dollar,0.08,Yuan Renminbi,Yuan Renminbi,Hryvnia,Dollar,Euro,Yuan Renminbi,Real
+Euro,Euro,0.2,Dollar,Yen,Won,Ruble,Euro,Rupiah,Bolivar
+Franc,Dinar,0.1,Peso,Rupiah,Peso,Won,Rupiah,Krona,Peso
+Yen,Yuan Renminbi,0.15,Euro,Franc,Franc,Krona,Ruble,Rupiah,Ruble
+Dollar,Euro,0.19,Rupiah,Lek,Real,Dinar,Rupiah,Sol,Peso
+Dollar,Baht,0.15,Ruble,Euro,Euro,Rupiah,Peso,Ruble,Rupee
+Shekel,Rupiah,0.17,Rupiah,Yuan Renminbi,Euro,Yuan Renminbi,Krone,Yen,Real
+Rupiah,Kuna,0.19,Ruble,Peso,Peso,Lek,Yuan Renminbi,Peso,Yuan Renminbi
+Rupiah,Franc,0.2,Yuan Renminbi,Dinar,Yuan Renminbi,Peso,Yuan Renminbi,Real,Peso
+Lempira,Sol,0.08,Euro,Euro,Rand,Yuan Renminbi,Tugrik,Peso,Kwacha
+Rupiah,Kuna,0.18,Euro,Shilling,Yuan Renminbi,Euro,Yuan Renminbi,Yen,Dinar
+Somoni,Euro,0.17,Euro,Yuan Renminbi,Peso,Ruble,Rial,Zloty,Rupiah
+Ringgit,Rupiah,0.11,Rial,Euro,Zloty,Yuan Renminbi,Euro,Ruble,Dollar
+Zloty,Baht,0.13,Rupiah,Shilling,Rial,Rial,Ruble,Peso,Euro
+Yuan Renminbi,Yuan Renminbi,0.09,Rupiah,Rupiah,Euro,Yuan Renminbi,Krona,Rand,Rupee
+Ariary,Yuan Renminbi,0.12,Peso,Rial,Rupiah,Rupiah,Dollar,Shilling,Dollar
+Peso,Yuan Renminbi,0.07,Yuan Renminbi,Yuan Renminbi,Rupiah,Yuan Renminbi,Euro,Euro,Yuan Renminbi
+Krona,Dirham,0.07,Real,Peso,Ruble,Baht,Ruble,Peso,Euro
+Euro,Krone,0.17,Baht,Yuan Renminbi,Rand,Yuan Renminbi,Dram,Rupiah,Real
+Peso,Yuan Renminbi,0.11,Pound,Rupiah,Yuan Renminbi,Yuan Renminbi,Rupiah,Dollar,Peso
+Yen,Yuan Renminbi,0.08,Lempira,Rupiah,Euro,Ruble,Zloty,Rupiah,Ruble
+Yuan Renminbi,Dinar,0.09,Rupiah,Peso,Sol,Peso,Euro,Euro,Yuan Renminbi
+Dollar,Rupiah,0.19,Dong,Dollar,Yuan Renminbi,Rupiah,Koruna,Dollar,Litas
+Euro,Euro,0.17,Yuan Renminbi,Dollar,Rupiah,Real,Pound,Euro,Yuan Renminbi
+Peso,Euro,0.09,Ruble,Yuan Renminbi,Ruble,Ringgit,Yuan Renminbi,Ruble,Dollar
+Lempira,Yuan Renminbi,0.17,Yen,Dong,Lempira,Dollar,Euro,Krona,Dollar
+Peso,Koruna,0.14,Sol,Krona,Rupee,Hryvnia,Lev,Yuan Renminbi,Real
+Euro,Pound,0.16,Yuan Renminbi,Peso,Rupiah,Zloty,Yuan Renminbi,Rupiah,Ruble
+Peso,Euro,0.1,Baht,Euro,Ruble,Shilling,Real,Euro,Rupiah
+Yuan Renminbi,Ruble,0.09,Yuan Renminbi,Yuan Renminbi,Yen,Ruble,Rupiah,Euro,Dollar
+Euro,Franc,0.11,Yuan Renminbi,Krona,Krona,Hryvnia,Yen,Yuan Renminbi,Euro
+Sol,Euro,0.12,Real,Euro,Yuan Renminbi,Denar,Peso,Rupiah,Kuna
+Real,Rupiah,0.13,Rupiah,Peso,Rupiah,Peso,Ruble,Peso,Rupiah
+Krone,Krona,0.07,Yuan Renminbi,Rupiah,Denar,Yuan Renminbi,Sol,Yuan Renminbi,Yuan Renminbi
+Leone,Shekel,0.13,Yuan Renminbi,Dollar,Yuan Renminbi,Rupiah,Yuan Renminbi,Euro,Rupiah
+Yuan Renminbi,Baht,0.13,Rand,Peso,Boliviano,Yuan Renminbi,Guarani,Peso,Rupiah
+Yuan Renminbi,Euro,0.15,Sol,Euro,Peso,Euro,Peso,Metical,Dollar
+Peso,Won,0.2,Euro,Yen,Yuan Renminbi,Dollar,Real,Yuan Renminbi,Ruble
+Boliviano,Krone,0.17,Real,Koruna,Euro,Euro,Yuan Renminbi,Rial,Tugrik
+Real,Peso,0.14,Naira,Dirham,Guarani,Dollar,Krona,Peso,Yuan Renminbi
